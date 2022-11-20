@@ -6,7 +6,7 @@ import { Checkbox, CheckboxProps } from "./Checkbox";
 export default {
   title: "Components/Checkbox",
   component: Checkbox,
-  args: { children: "Create account" },
+  args: {},
   argTypes: {},
   decorators: [
     (Story) => {
