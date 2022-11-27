@@ -11,14 +11,14 @@
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=Design&message=System&color=blueviolet&style=for-the-badge"/>
   <img src="https://img.shields.io/github/license/MrRioja/lab-design-system?color=blueviolet&logo=License&style=for-the-badge"/>
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/MrRioja/lab-design-system?color=blueviolet&logo=JavaScript&logoColor=white&style=for-the-badge">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/MrRioja/lab-design-system?color=blueviolet&logo=TypeScript&logoColor=white&style=for-the-badge">
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/MrRioja/lab-design-system?color=blueviolet&style=for-the-badge">
 </p>
 <br>
 
 <p align="center">
   <a href="#sobre">Sobre</a> •
-  <a href="#lab-design-system">Design System</a> •
+  <a href="#design-system">Design System</a> •
   <a href="#instalação">Instalação</a> •
   <a href="#tecnologias">Tecnologias</a> •
   <a href="#autor">Autor</a>  
